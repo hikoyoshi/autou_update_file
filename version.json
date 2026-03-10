@@ -1,5 +1,5 @@
 {
-    "version": "1.5.2",
-    "notes": "修復tg連線衝突",
+    "version": "1.6.2",
+    "notes": "修復tg",
     "dat_file": "app_core.dat"
 }
