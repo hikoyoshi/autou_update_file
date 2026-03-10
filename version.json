@@ -1,5 +1,5 @@
 {
-    "version": "1.7",
-    "notes": "更新版本說明",
+    "version": "1.7.1",
+    "notes": "github快取問題修復",
     "dat_file": "app_core.dat"
 }
