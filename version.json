@@ -1,5 +1,5 @@
 {
-    "version": "1.7.2",
-    "notes": "Fixed multiple instances causing Telegram API 409 Conflict.",
+    "version": "1.7.3",
+    "notes": "Added the Mutex single-instance lock directly to SignApp to prevent duplicate Telegram Bot 409 API conflicts.",
     "dat_file": "app_core.dat"
 }
