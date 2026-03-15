@@ -1,5 +1,5 @@
 {
-    "version": "1.7.3",
-    "notes": "Added the Mutex single-instance lock directly to SignApp to prevent duplicate Telegram Bot 409 API conflicts.",
+    "version": "1.7.4",
+    "notes": "\u977d\u6840\u5114 launcher.py \udce8\udc88\udc87 gui_main.py \udce9\udc9b\udc99\udce9\udc87\udc8d\u922d\udc92\udce6\udc96\u4eff\udc8e\udc96\u92b5\udc9d\u8752\udc81\u64a0\udc8e\udce8\udc87\u6e32\udc87\u82b8\u695b\udce9\udc8e\udc96\udce8\udc87\u82b8\u695b\udce7\udc9a\udc84\udce5\udc95\udc8f\u61bf\udc8c\udce3\udc80\udc82",
     "dat_file": "app_core.dat"
 }
