@@ -1,5 +1,5 @@
 {
-    "version": "1.7.5",
-    "notes": "v1.7.5 Debug app_core.dat",
+    "version": "1.7.6",
+    "notes": "409 Conflict 強制清除 Telegram 伺服器端的舊連線",
     "dat_file": "app_core.dat"
 }
