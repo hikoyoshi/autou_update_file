@@ -1,5 +1,5 @@
 {
-    "version": "1.7.6",
-    "notes": "409 Conflict 強制清除 Telegram 伺服器端的舊連線",
+    "version": "1.7.7",
+    "notes": "\u4fee\u6b63error \u9023\u7dda\u932f\u8aa4\u8a0a\u606f\u7b49\u7d1a\uff0c\u907f\u5916\u6301\u7e8c\u767c\u9001",
     "dat_file": "app_core.dat"
 }
