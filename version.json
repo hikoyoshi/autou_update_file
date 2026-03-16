@@ -1,5 +1,5 @@
 {
-    "version": "1.7.7",
-    "notes": "\u4fee\u6b63error \u9023\u7dda\u932f\u8aa4\u8a0a\u606f\u7b49\u7d1a\uff0c\u907f\u5916\u6301\u7e8c\u767c\u9001",
+    "version": "1.7.8",
+    "notes": "\u4fee\u6b63\u91cd\u958b\u6a5f\u5f8cgoogle sheet\u6c92\u6709\u8f09\u5165\u554f\u984c",
     "dat_file": "app_core.dat"
 }
