@@ -1,5 +1,5 @@
 {
-    "version": "1.7.8",
-    "notes": "\u4fee\u6b63\u91cd\u958b\u6a5f\u5f8cgoogle sheet\u6c92\u6709\u8f09\u5165\u554f\u984c",
+    "version": "v1.7.9",
+    "notes": "\u91cd\u69cb TG Bot \u6307\u4ee4\u67b6\u69cb\uff1a\u4fee\u5fa9 Bot \u5b8c\u5168\u7121\u56de\u61c9\u3001\u65b0\u589e\u81ea\u52d5\u91cd\u9023\u8207\u4e0a\u7dda\u901a\u77e5",
     "dat_file": "app_core.dat"
 }
