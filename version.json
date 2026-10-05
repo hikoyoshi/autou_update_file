@@ -1,5 +1,15 @@
 {
-    "version": "v1.7.9",
-    "notes": "\u91cd\u69cb TG Bot \u6307\u4ee4\u67b6\u69cb\uff1a\u4fee\u5fa9 Bot \u5b8c\u5168\u7121\u56de\u61c9\u3001\u65b0\u589e\u81ea\u52d5\u91cd\u9023\u8207\u4e0a\u7dda\u901a\u77e5",
-    "dat_file": "app_core.dat"
+  "version": "v1.8.0",
+  "notes": "修正 Telegram 按鈕、斷線重連、Google Sheet 自動恢復、簽到驗證與排程取消。可沿用原本 EXE，無需更換主程式。",
+  "dat_file": "app_core.dat",
+  "sha256": "5128a22c4f908510004a9e76445b600f5d19f362ce2a2dbee281c027b13d498a",
+  "size": 80065,
+  "python_version": "3.12",
+  "min_launcher_version": null,
+  "launcher_version": "v1.8.0",
+  "source_sha256": "30c9348faf0fa8ac006db53b2f3d6ae2653e33751bda9a47c60ee2e926663ab1",
+  "source_files_sha256": {
+    "gui_main.py": "68043bac476e376f81f3fcc757548aebd1672183069ae69cd59b286a1a6875aa",
+    "stust_signbook.py": "3968ba03a98d7f2b0fa4e2ac2ab044ebe5ed5369b6b94d8da2cd1e4e619cc4a8"
+  }
 }
