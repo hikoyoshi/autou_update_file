@@ -1,15 +1,16 @@
 {
-  "version": "v1.8.0",
-  "notes": "修正 Telegram 按鈕、斷線重連、Google Sheet 自動恢復、簽到驗證與排程取消。可沿用原本 EXE，無需更換主程式。",
+  "version": "v1.9.0",
+  "notes": "使用者端雙模式設定：保留各自 Bot token 與 Chat ID，集中模式位址可自行設定；簽到、Sheet 排程及紀錄方式不變。沿用原 EXE，無需更換。集中 Bot 服務另行部署。",
   "dat_file": "app_core.dat",
-  "sha256": "5128a22c4f908510004a9e76445b600f5d19f362ce2a2dbee281c027b13d498a",
-  "size": 80065,
+  "sha256": "85fef72a63698aac20e65fd24d9ee12f3103665b46316212c93c2e88bef1437c",
+  "size": 95017,
   "python_version": "3.12",
   "min_launcher_version": null,
   "launcher_version": "v1.8.0",
-  "source_sha256": "30c9348faf0fa8ac006db53b2f3d6ae2653e33751bda9a47c60ee2e926663ab1",
+  "source_sha256": "5bfea142bbff97c0a2beac875f741af7dd625d60c70fd5067099b072239e453d",
   "source_files_sha256": {
-    "gui_main.py": "68043bac476e376f81f3fcc757548aebd1672183069ae69cd59b286a1a6875aa",
-    "stust_signbook.py": "3968ba03a98d7f2b0fa4e2ac2ab044ebe5ed5369b6b94d8da2cd1e4e619cc4a8"
+    "relay_client.py": "5a040c52c35fbe6eca51cb3e7a888d773ee75ad68ced2e42cffdc6e87a8f53bb",
+    "gui_main.py": "0a5b50f4a00e38bf5012d8a726cb3db929158bb7b3fa8fab03ead6e3b2d0e23c",
+    "stust_signbook.py": "6fce5d49e0ebea02102fae3b15177943a6e08255c717b3e4a2e93fd91db12d88"
   }
 }
