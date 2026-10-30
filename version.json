@@ -1,16 +1,16 @@
 {
-  "version": "v1.9.0",
-  "notes": "使用者端雙模式設定：保留各自 Bot token 與 Chat ID，集中模式位址可自行設定；簽到、Sheet 排程及紀錄方式不變。沿用原 EXE，無需更換。集中 Bot 服務另行部署。",
+  "version": "v1.9.1",
+  "notes": "Telegram 短暫逾時不再洗版：每次請求使用新連線、連續失敗 3 次才記錄警告、離線超過 5 分鐘才重發選單",
   "dat_file": "app_core.dat",
-  "sha256": "85fef72a63698aac20e65fd24d9ee12f3103665b46316212c93c2e88bef1437c",
-  "size": 95017,
+  "sha256": "b556265ecb087aa9e15f4e08d4e8c58ad269acfa99106512fdbe1a2e58f48a70",
+  "size": 95593,
   "python_version": "3.12",
   "min_launcher_version": null,
   "launcher_version": "v1.8.0",
-  "source_sha256": "5bfea142bbff97c0a2beac875f741af7dd625d60c70fd5067099b072239e453d",
+  "source_sha256": "f28d17d3312ca0c308b7612948d06f715f0ff2f9ffc0aeb77c90f14bfec31ee0",
   "source_files_sha256": {
     "relay_client.py": "5a040c52c35fbe6eca51cb3e7a888d773ee75ad68ced2e42cffdc6e87a8f53bb",
-    "gui_main.py": "0a5b50f4a00e38bf5012d8a726cb3db929158bb7b3fa8fab03ead6e3b2d0e23c",
-    "stust_signbook.py": "6fce5d49e0ebea02102fae3b15177943a6e08255c717b3e4a2e93fd91db12d88"
+    "gui_main.py": "a84112adf687761783fef0ed9d7015d3640a81897e54c091f07f5be408d8a63c",
+    "stust_signbook.py": "081b66938d506a7ee99fce38d663fe738d1bc5c7195b246609902280052669db"
   }
 }
